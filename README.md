@@ -1,6 +1,6 @@
 ### Hi, I am Alex! 👋
 
-- 🔭 I’m currently working on a BGP hijacking detection tool, called [Artemis](https://github.com/FORTH-ICS-INSPIRE/artemis)
+- 🔭 I’m currently working on a BGP hijack detection tool, called [Artemis](https://github.com/FORTH-ICS-INSPIRE/artemis)
 - 🌱 I’m currently learning technologies on the MERN stack as well as the JAMstack
 - 📫 How to reach me: On twitter or on my e-mail address
 
