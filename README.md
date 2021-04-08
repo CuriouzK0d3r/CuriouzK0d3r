@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a BGP hijack detection tool, called [Artemis](https://github.com/FORTH-ICS-INSPIRE/artemis)
 - 🌱 I’m currently learning technologies on the MERN stack as well as the JAMstack
-- 📫 How to reach me: On twitter or on my e-mail address
+- 📫 How to reach me: At twitter or at my e-mail address
 
 <!--
 **CuriouzK0d3r/CuriouzK0d3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
