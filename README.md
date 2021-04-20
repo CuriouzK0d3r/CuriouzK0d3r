@@ -24,6 +24,23 @@ A software engineer at ICS-FORTH in Crete, Greece. My professional and research 
 - 🌱 I’m currently learning technologies on the MERN stack as well as the JAMstack
 - 📫 How to reach me: At twitter or at my e-mail address
 
+---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [How to be social in the terminal](https://digital-lifestyle.tech/blog/how-to-be-social)
+- [How to live your digital life in a terminal : Introduction](https://digital-lifestyle.tech/blog/how-to-live-in-terminal)
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://digital-lifestyle.tech)
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriouzK0d3r&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **CuriouzK0d3r/CuriouzK0d3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
