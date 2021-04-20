@@ -22,7 +22,7 @@ A software engineer at ICS-FORTH in Crete, Greece. My professional and research 
 
 - 🔭 I’m currently working on a BGP hijack detection tool, called [Artemis](https://github.com/FORTH-ICS-INSPIRE/artemis)
 - 🌱 I’m currently learning technologies on the MERN stack as well as the JAMstack
-- 📫 How to reach me: At twitter or at my e-mail address
+- 📫 How to reach me: At Twitter or at my e-mail address
 
 ---
 
