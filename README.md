@@ -29,6 +29,7 @@ A software engineer at ICS-FORTH in Crete, Greece. My professional and research 
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Computer Science as a Medicine](https://digital-lifestyle.tech/blog/computer-science-as-medicine)
 - [How to be social in the terminal](https://digital-lifestyle.tech/blog/how-to-be-social)
 - [How to live your digital life in a terminal : Introduction](https://digital-lifestyle.tech/blog/how-to-live-in-terminal)
 <!-- BLOG-POST-LIST:END -->
