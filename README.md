@@ -31,7 +31,7 @@ A software engineer at ICS-FORTH in Crete, Greece. My professional and research 
 <!-- BLOG-POST-LIST:START -->
 - [Why I occasionally go off the grid](https://digital-lifestyle.tech/why-i-occasionally-go-off-the-grid)
 - [Why is Fake News Spread so Hard to Stop?](https://digital-lifestyle.tech/why-is-fake-news-spread-so-hard-to-stop)
-- [earn You a Functional Programming for Great Good!](https://digital-lifestyle.tech/learn-you-a-functional-programming-for-great-good)
+- [Learn You a Functional Programming for Great Good!](https://digital-lifestyle.tech/learn-you-a-functional-programming-for-great-good)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://digital-lifestyle.tech)
