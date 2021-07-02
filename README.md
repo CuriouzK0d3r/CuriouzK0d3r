@@ -29,9 +29,9 @@ A software engineer at ICS-FORTH in Crete, Greece. My professional and research 
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Science as a Medicine](https://digital-lifestyle.tech/blog/computer-science-as-medicine)
-- [How to be social in the terminal](https://digital-lifestyle.tech/blog/how-to-be-social)
-- [How to live your digital life in a terminal : Introduction](https://digital-lifestyle.tech/blog/how-to-live-in-terminal)
+- [Why I occasionally go off the grid](https://digital-lifestyle.tech/why-i-occasionally-go-off-the-grid)
+- [Why is Fake News Spread so Hard to Stop?](https://digital-lifestyle.tech/why-is-fake-news-spread-so-hard-to-stop)
+- [earn You a Functional Programming for Great Good!](https://digital-lifestyle.tech/learn-you-a-functional-programming-for-great-good)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://digital-lifestyle.tech)
