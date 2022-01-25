@@ -29,14 +29,14 @@
           <td align="left" width="300">
 <p align="center">
             <a href="https://twitter.com/ck0d3r">
-              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
+              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-256.png" />
             </a>
 </p>
           </td>
 	  <td align="left" width="300">
 <p align="center">
             <a href="https://www.linkedin.com/in/kornilak/">
-              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
+              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" />
             </a>
 </p>
           </td>    
@@ -45,7 +45,7 @@
           <td align="left" width="300">
 <p align="center">
             <a href="https://discord.gg/DTSeWQDgcB">
-              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" />
+              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-256.png" />
             </a>
 </p>
           </td>
