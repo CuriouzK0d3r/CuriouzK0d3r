@@ -1,7 +1,10 @@
 # <h1 align="center">Hi 👋, I'm Alexandros!</h1>
 <h3 align="center">A software engineer from Greece</h3>
 
-<p align="center">
+---
+
+
+<p>
 <img src="https://activity-graph.herokuapp.com/graph?username=curiouzk0d3r&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </p>
 
@@ -42,14 +45,14 @@
           <td align="left" width="300">
 <p align="center">
             <a href="https://www.youtube.com/channel/UC_LCP89vR1I_Mudrn7NlExg">
-              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/iconfinder_social_media_isometric_2-youtube_3529652.png" />
+              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" />
             </a>
 </p>
           </td>
 	  <td align="left" width="300">
 <p align="center">
             <a href="https://digital-lifestyle.tech">
-  <img src="https://drive.google.com/file/d/1UnN7rTXBrFYfG0HxnMxqKZP6Gg0-riYf/view?usp=sharing" alt="blog" width="30%">
+  <img src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" alt="blog" width="30%">
 </a>
       
 </p>
@@ -116,19 +119,3 @@
 
 ## &#x1f4c8; My GitHub Stats
 [![CuriouzK0der's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiouzk0d3r&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**CuriouzK0d3r/CuriouzK0d3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
