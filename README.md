@@ -5,9 +5,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=curiouzk0d3r&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </p>
 
-Working as a software engineer at ICS-FORTH in Crete, Greece. My professional and research interests include web application development, machine learning and studying the security/privacy aspects of online social networks.
-
-
 <table align="center" width="100%">
   <tr>
     <td align="center">
@@ -23,7 +20,7 @@ Working as a software engineer at ICS-FORTH in Crete, Greece. My professional an
       </table>
     </td>
     <td align="center">
-      <h3>Connect with me:</h3>
+      <h3>📫 Connect with me:</h3>
       <table>
         <tr>
           <td align="left" width="300">
@@ -36,7 +33,7 @@ Working as a software engineer at ICS-FORTH in Crete, Greece. My professional an
 	  <td align="left" width="300">
 <p align="center">
             <a href="https://www.linkedin.com/in/kornilak/">
-              <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
+              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
             </a>
 </p>
           </td>    
@@ -45,14 +42,14 @@ Working as a software engineer at ICS-FORTH in Crete, Greece. My professional an
           <td align="left" width="300">
 <p align="center">
             <a href="https://www.youtube.com/channel/UC_LCP89vR1I_Mudrn7NlExg">
-              <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/iconfinder_social_media_isometric_2-youtube_3529652.png" />
+              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/iconfinder_social_media_isometric_2-youtube_3529652.png" />
             </a>
 </p>
           </td>
 	  <td align="left" width="300">
 <p align="center">
             <a href="https://digital-lifestyle.tech">
-  <img src="https://drive.google.com/file/d/1UnN7rTXBrFYfG0HxnMxqKZP6Gg0-riYf/view?usp=sharing" alt="Karuna Tata's DEV Community Profile" width="30%">
+  <img src="https://drive.google.com/file/d/1UnN7rTXBrFYfG0HxnMxqKZP6Gg0-riYf/view?usp=sharing" alt="blog" width="30%">
 </a>
       
 </p>
@@ -62,11 +59,6 @@ Working as a software engineer at ICS-FORTH in Crete, Greece. My professional an
     </td>
   </tr>
 </table>
-
-## 📫 Connect with me:
-
-<a href="https://twitter.com/ck0d3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ttesori" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kornilak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonitesori" height="30" width="40" /></a>
 
 ## ⚡ Technologies
 
