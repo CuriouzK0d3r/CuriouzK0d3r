@@ -1,12 +1,69 @@
-<h1 align="center">Hi 👋, I'm Alexandros!</h1>
+# <h1 align="center">Hi 👋, I'm Alexandros!</h1>
 <h3 align="center">A software engineer from Greece</h3>
+
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=curiouzk0d3r&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+</p>
 
 Working as a software engineer at ICS-FORTH in Crete, Greece. My professional and research interests include web application development, machine learning and studying the security/privacy aspects of online social networks.
 
-<img src="https://activity-graph.herokuapp.com/graph?username=curiouzk0d3r&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <h3>I'm part of this organisation:</h3>
+      <table>
+        <tr>
+          <td align="center" width="200">
+            <a href="https://github.com/FORTH-ICS-INSPIRE">
+              <img width="100%" src="https://avatars.githubusercontent.com/u/35230940?s=200&v=4" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <h3>Connect with me:</h3>
+      <table>
+        <tr>
+          <td align="left" width="300">
+<p align="center">
+            <a href="https://twitter.com/ck0d3r">
+              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
+            </a>
+</p>
+          </td>
+	  <td align="left" width="300">
+<p align="center">
+            <a href="https://www.linkedin.com/in/kornilak/">
+              <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
+            </a>
+</p>
+          </td>    
+        </tr>
+	<tr>
+          <td align="left" width="300">
+<p align="center">
+            <a href="https://www.youtube.com/channel/UC_LCP89vR1I_Mudrn7NlExg">
+              <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/iconfinder_social_media_isometric_2-youtube_3529652.png" />
+            </a>
+</p>
+          </td>
+	  <td align="left" width="300">
+<p align="center">
+            <a href="https://digital-lifestyle.tech">
+  <img src="https://drive.google.com/file/d/1UnN7rTXBrFYfG0HxnMxqKZP6Gg0-riYf/view?usp=sharing" alt="Karuna Tata's DEV Community Profile" width="30%">
+</a>
+      
+</p>
+          </td>  
+	</tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-## Connect with me:
+## 📫 Connect with me:
 
 <a href="https://twitter.com/ck0d3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ttesori" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kornilak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonitesori" height="30" width="40" /></a>
@@ -30,7 +87,6 @@ Working as a software engineer at ICS-FORTH in Crete, Greece. My professional an
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
 
 ### DevOps & Cloud Tools:
