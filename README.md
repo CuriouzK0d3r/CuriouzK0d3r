@@ -8,7 +8,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=curiouzk0d3r&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </p>
 
-<table align="center" width="100%">
+<table align="center" >
   <tr>
     <td align="center">
       <h3>I'm part of this organisation:</h3>
@@ -26,14 +26,14 @@
       <h3>📫 Connect with me:</h3>
       <table>
         <tr>
-          <td align="left" width="300">
+          <td align="left" width="250">
 <p align="center">
             <a href="https://twitter.com/ck0d3r">
               <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-256.png" />
             </a>
 </p>
           </td>
-	  <td align="left" width="300">
+	  <td align="left" width="250">
 <p align="center">
             <a href="https://www.linkedin.com/in/kornilak/">
               <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" />
@@ -42,14 +42,14 @@
           </td>    
         </tr>
 	<tr>
-          <td align="left" width="300">
+          <td align="left" width="250">
 <p align="center">
             <a href="https://discord.gg/DTSeWQDgcB">
               <img width="30%" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-256.png" />
             </a>
 </p>
           </td>
-	  <td align="left" width="300">
+	  <td align="left" width="250">
 <p align="center">
             <a href="https://digital-lifestyle.tech">
   <img src="https://github.com/CuriouzK0d3r/CuriouzK0d3r/raw/main/brand-icon.png" alt="blog" width="30%">
