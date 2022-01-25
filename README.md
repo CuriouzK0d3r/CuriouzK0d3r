@@ -52,7 +52,7 @@
 	  <td align="left" width="300">
 <p align="center">
             <a href="https://digital-lifestyle.tech">
-  <img src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" alt="blog" width="30%">
+  <img src="./brand-icon.min.svg" alt="blog" width="30%">
 </a>
       
 </p>
@@ -119,3 +119,19 @@
 
 ## &#x1f4c8; My GitHub Stats
 [![CuriouzK0der's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiouzk0d3r&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
+**CuriouzK0d3r/CuriouzK0d3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
