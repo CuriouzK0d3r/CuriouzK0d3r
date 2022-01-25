@@ -44,7 +44,7 @@
 	<tr>
           <td align="left" width="300">
 <p align="center">
-            <a href="https://www.youtube.com/channel/UC_LCP89vR1I_Mudrn7NlExg">
+            <a href="https://discord.gg/DTSeWQDgcB">
               <img width="30%" src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-squircle/250/discord_squircle-512.png" />
             </a>
 </p>
@@ -52,7 +52,7 @@
 	  <td align="left" width="300">
 <p align="center">
             <a href="https://digital-lifestyle.tech">
-  <img src="./brand-icon.min.svg" alt="blog" width="30%">
+  <img src="https://github.com/CuriouzK0d3r/CuriouzK0d3r/raw/main/brand-icon.png" alt="blog" width="30%">
 </a>
       
 </p>
@@ -80,21 +80,18 @@
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![NextJS](https://img.shields.io/badge/-Next.js-336791?style=flat-square&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-336791?style=flat-square&logo=tailwindcss)
 
 ### DevOps & Cloud Tools:
 
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
+![Grafana](https://img.shields.io/badge/-grafana-black?style=flat-square&logo=grafana)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 
 ---
@@ -108,7 +105,7 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I occasionally go off the grid](https://digital-lifestyle.tech/why-i-occasionally-go-off-the-grid)
+- [How to start with Deep Learning](https://digital-lifestyle.tech/how-to-start-with-deep-learning)
 - [Why is Fake News Spread so Hard to Stop?](https://digital-lifestyle.tech/why-is-fake-news-spread-so-hard-to-stop)
 - [Learn You a Functional Programming for Great Good!](https://digital-lifestyle.tech/learn-you-a-functional-programming-for-great-good)
 <!-- BLOG-POST-LIST:END -->
