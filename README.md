@@ -1,6 +1,6 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alexandros!
+<h1 align="center">Hi 👋, I'm Alexandros!</h1>
+<h3 align="center">A software engineer from Greece</h3>
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/ck0d3r?style=social)
 
 A software engineer at ICS-FORTH in Crete, Greece. My professional and research interests include web application development, machine learning and studying the security/privacy aspects of online social networks.
 
