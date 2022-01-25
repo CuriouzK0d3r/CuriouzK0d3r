@@ -3,14 +3,13 @@
 
 Working as a software engineer at ICS-FORTH in Crete, Greece. My professional and research interests include web application development, machine learning and studying the security/privacy aspects of online social networks.
 
+<img src="https://activity-graph.herokuapp.com/graph?username=curiouzk0d3r&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+## Connect with me:
+
 <a href="https://twitter.com/ck0d3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ttesori" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kornilak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonitesori" height="30" width="40" /></a>
-</p>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=curiouzk0d3r&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ## ⚡ Technologies
 
