@@ -65,7 +65,7 @@
 
 ## ⚡ Technologies
 
-### Languages :
+### Languages
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -73,7 +73,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
-### Libraries & Frameworks :
+### Libraries & Frameworks
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -84,7 +84,7 @@
 ![NextJS](https://img.shields.io/badge/-Next.js-336791?style=flat-square&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-336791?style=flat-square&logo=tailwindcss)
 
-### DevOps & Cloud Tools:
+### DevOps & Cloud Tools
 
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
 ![Grafana](https://img.shields.io/badge/-grafana-black?style=flat-square&logo=grafana)
@@ -103,8 +103,9 @@
 
 ---
 -->
+##  Content
 
-📘 Latest Blog Articles
+### 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [How to start with Deep Learning](https://digital-lifestyle.tech/how-to-start-with-deep-learning)
@@ -114,7 +115,6 @@
 
 ▶ [...more blog articles](https://digital-lifestyle.tech)
 
----
 
 ## &#x1f4c8; My GitHub Stats
 [![CuriouzK0der's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiouzk0d3r&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
