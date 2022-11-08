@@ -46,7 +46,7 @@
           </td>
 	  <td align="left" width="250">
 <p align="center">
-            <a href="https://digital-lifestyle.tech">
+            <a href="https://kornilakis.com">
   <img src="https://github.com/CuriouzK0d3r/CuriouzK0d3r/raw/main/brand-icon.png" alt="blog" width="30%">
 </a>
       
