@@ -43,7 +43,7 @@
 ---
 -->
 ##  Content
-
+<!--
 ### 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://digital-lifestyle.tech)
-
+-->
 
 ## &#x1f4c8; My GitHub Stats
 [![CuriouzK0der's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiouzk0d3r&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
