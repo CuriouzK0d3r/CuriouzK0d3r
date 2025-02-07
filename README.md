@@ -47,12 +47,12 @@
 ### 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start with Deep Learning](https://digital-lifestyle.tech/how-to-start-with-deep-learning)
-- [Why is Fake News Spread so Hard to Stop?](https://digital-lifestyle.tech/why-is-fake-news-spread-so-hard-to-stop)
-- [Learn You a Functional Programming for Great Good!](https://digital-lifestyle.tech/learn-you-a-functional-programming-for-great-good)
+- [How to start with Deep Learning](https://webcompiled.hashnode.dev/this-is-a-javascript-world-5-languages-that-compile-to-js)
+- [This is a JavaScript world! 5 Languages that compile to JS](https://webcompiled.hashnode.dev/this-is-a-javascript-world-5-languages-that-compile-to-js)
+- [Computer Science as a Medicine](https://webcompiled.hashnode.dev/computer-science-as-a-medicine)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://digital-lifestyle.tech)
+▶ [...more blog articles](https://webcompiled.hashnode.dev)
 -->
 
 ## &#x1f4c8; My GitHub Stats
