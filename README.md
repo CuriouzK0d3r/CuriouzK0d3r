@@ -47,12 +47,12 @@
 ### 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start with Deep Learning](https://webcompiled.hashnode.dev/this-is-a-javascript-world-5-languages-that-compile-to-js)
-- [This is a JavaScript world! 5 Languages that compile to JS](https://webcompiled.hashnode.dev/this-is-a-javascript-world-5-languages-that-compile-to-js)
-- [Computer Science as a Medicine](https://webcompiled.hashnode.dev/computer-science-as-a-medicine)
+- [How to start with Deep Learning](https://webcompiled.tech/this-is-a-javascript-world-5-languages-that-compile-to-js)
+- [This is a JavaScript world! 5 Languages that compile to JS](https://webcompiled.tech/this-is-a-javascript-world-5-languages-that-compile-to-js)
+- [Computer Science as a Medicine](https://webcompiled.tech/computer-science-as-a-medicine)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://webcompiled.hashnode.dev)
+▶ [...more blog articles](https://webcompiled.tech)
 -->
 
 ## &#x1f4c8; My GitHub Stats
