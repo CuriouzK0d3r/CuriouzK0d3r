@@ -78,12 +78,3 @@ I am a passionate **Software Engineer** based in **Greece**, dedicated to buildi
 - [This is a JavaScript world! 5 Languages that compile to JS](https://webcompiled.tech/this-is-a-javascript-world-5-languages-that-compile-to-js)
 - [Computer Science as a Medicine](https://webcompiled.tech/computer-science-as-a-medicine)
 ▶ [Read more articles at webcompiled.tech](https://webcompiled.tech)
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=curiouzk0d3r&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Alexandros's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiouzk0d3r&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180" />
-</div>
