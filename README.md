@@ -11,13 +11,13 @@
   </p>
 
   <p align="center">
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:info@alexisk.tech">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <!-- <a href="https://linkedin.com/in/your-profile" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/your-handle" target="_blank">
+    </a> -->
+    <a href="https://x.com/ck0d3r" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     <a href="https://webcompiled.tech" target="_blank">
@@ -32,10 +32,8 @@
 
 I am a passionate **Software Engineer** based in **Greece**, dedicated to building robust and scalable applications. I have a strong background in backend systems and distributed architectures, but I equally enjoy crafting interactive user interfaces.
 
-* 🔭 I’m currently working on a **BGP hijack detection tool** called [**Artemis**](https://github.com/FORTH-ICS-INSPIRE/artemis).
-* 🌱 I’m currently exploring **Kubernetes Orchestration** and the **JAMstack** ecosystem.
-* 🤔 My interests include **Distributed Systems**, **Cybersecurity**, and **Tech Education**.
-* ⚡ **Fun fact:** I believe Computer Science is like medicine for the modern world!
+* 🤔 My interests include **Web Development**, **Cybersecurity**, and **AI**.
+* ⚡ **Fun fact:** I believe Computer Science can be medicine for the modern world!
 
 ---
 
