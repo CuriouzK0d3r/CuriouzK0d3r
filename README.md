@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-    <b> 🔭 Building Artemis (BGP Hijack Detection) | 🌱 Learning & Growing | ✍️ Blogging </b>
+    <b> 🔭 Building Full Stack Apps | 🌱 Learning & Growing | ✍️ Blogging </b>
   </p>
 
   <p align="center">
